@@ -12,3 +12,4 @@
 
 <img width="799" height="480" alt="스크린샷 2026-03-19 123627" src="https://github.com/user-attachments/assets/3be9b1a7-c4c9-415a-829b-fb1c027c52dd" />
 전송 버튼을 누른 뒤 모습입니다.
+코드에 문제가 있는지 (여기에 입력하세요) 글자가 사라지지 않는 문제가 발생하였으나 어느 부분이 문제인지 찾지 못하였습니다.
