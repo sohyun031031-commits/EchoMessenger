@@ -12,4 +12,11 @@
 
 <img width="799" height="480" alt="스크린샷 2026-03-19 123627" src="https://github.com/user-attachments/assets/3be9b1a7-c4c9-415a-829b-fb1c027c52dd" />
 전송 버튼을 누른 뒤 모습입니다.
-코드에 문제가 있는지 (여기에 입력하세요) 글자가 사라지지 않는 문제가 발생하였으나 어느 부분이 문제인지 찾지 못하였습니다.
+
+
+<img width="800" height="479" alt="스크린샷 2026-03-19 131429" src="https://github.com/user-attachments/assets/4885ef0d-2168-4b87-8ff7-1ce56c172380" />
+이제부턴 (여기에 입력하세요)가 뜨지 않습니다.
+
+
+<img width="801" height="485" alt="스크린샷 2026-03-19 131434" src="https://github.com/user-attachments/assets/59a4b480-684a-4729-9fd2-b735ce54abd8" />
+enter키를 누르면 자동으로 전송되는 모습입니다.
